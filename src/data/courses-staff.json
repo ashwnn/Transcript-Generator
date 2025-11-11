@@ -1,0 +1,195 @@
+[
+  {
+    "course_name": "Computer Information Systems Administration",
+    "school_of": "School of Energy",
+    "courses": [
+      { "level": 1, "code": "CISA 1310", "title": "Network Essentials", "credits": 5.0 },
+      { "level": 1, "code": "CISA 1320", "title": "Desktop Support & Maintenance", "credits": 5.0 },
+      { "level": 1, "code": "CISA 1330", "title": "Windows Server Essentials", "credits": 5.0 },
+      { "level": 1, "code": "CISA 1340", "title": "Linux Essentials", "credits": 5.0 },
+      { "level": 1, "code": "CISA 1350", "title": "Database Essentials", "credits": 5.0 },
+      { "level": 1, "code": "CISA 1360", "title": "Programming Essentials", "credits": 5.0 },
+      { "level": 2, "code": "CISA 2310", "title": "IP Routing Fundamentals", "credits": 6.0 },
+      { "level": 2, "code": "CISA 2320", "title": "Ethernet Switching Fundamentals", "credits": 6.0 },
+      { "level": 2, "code": "CISA 2330", "title": "Windows Server Administration", "credits": 6.0 },
+      { "level": 2, "code": "CISA 2340", "title": "Linux Administration", "credits": 6.0 },
+      { "level": 2, "code": "CISA 2370", "title": "Network Security Fundamentals", "credits": 6.0 },
+      { "level": 2, "code": "CISA 2380", "title": "Business Skills for IT", "credits": 6.0 },
+      { "level": 2, "code": "CISA 2390", "title": "Campus Network Project", "credits": 4.0 },
+      { "level": 3, "code": "CISA 3310", "title": "Advanced Ethernet Switching", "credits": 5.0 },
+      { "level": 3, "code": "CISA 3320", "title": "Deploying Wireless Systems", "credits": 5.0 },
+      { "level": 3, "code": "CISA 3330", "title": "Deploying Windows Services", "credits": 5.0 },
+      { "level": 3, "code": "CISA 3350", "title": "Deploying Messaging Systems", "credits": 5.0 },
+      { "level": 3, "code": "CISA 3360", "title": "Deploying VoIP Systems", "credits": 5.0 },
+      { "level": 3, "code": "CISA 3370", "title": "Enterprise Network Security", "credits": 5.0 },
+      { "level": 4, "code": "CISA 4310", "title": "Advanced Routing Services", "credits": 6.0 },
+      { "level": 4, "code": "CISA 4330", "title": "Enterprise Windows Services", "credits": 6.0 },
+      { "level": 4, "code": "CISA 4340", "title": "Unified Communications", "credits": 6.0 },
+      { "level": 4, "code": "CISA 4350", "title": "Deploying Cloud Services", "credits": 6.0 },
+      { "level": 4, "code": "CISA 4360", "title": "Managing Network Services", "credits": 6.0 },
+      { "level": 4, "code": "CISA 4370", "title": "Advanced Network Security", "credits": 6.0 },
+      { "level": 4, "code": "CISA 4390", "title": "Enterprise Network Project", "credits": 4.0 }
+    ],
+    "staff": [
+      { "name": "Patrick Duffey", "role": "Department Head", "phone": "604-432-8262", "email": "Patrick_Duffey@bcit.ca" },
+      { "name": "Zulfiqar (John) Ali", "phone": "604-456-1290", "email": "zali39@bcit.ca" },
+      { "name": "David Chen", "phone": "604-431-4933", "email": "David_Chen@bcit.ca" },
+      { "name": "Joutiar Ghaderyan, NSE", "phone": "604-456-1165", "email": "Joutiar_Ghaderyan@bcit.ca" },
+      { "name": "Kirksal Icoz", "phone": "604-456-1164", "email": "Kirksal_Icoz@bcit.ca" },
+      { "name": "Rouzbeh Keshavarz, MSc, CCNP, MCSE", "phone": "604-431-4975", "email": "rkeshavarz@bcit.ca" },
+      { "name": "Jingjing Lount", "phone": "604-412-7524", "email": "jlount@bcit.ca" },
+      { "name": "Steven Ng", "phone": "604-432-8317", "email": "Steven_Ng@bcit.ca" },
+      { "name": "Rick Phelan, DipIT", "phone": "604-432-8463", "email": "rphelan@bcit.ca" },
+      { "name": "Hamidreza Talebi, MSc, CCNP", "phone": "604-453-4012", "email": "htalebi@bcit.ca" },
+      { "name": "Tracy Willcock, MA, MCNI", "phone": "604-456-1163", "email": "Tracy_Willcock@bcit.ca" },
+      { "name": "Areeb Yasir", "phone": "604-456-1053", "email": "ayasir1@bcit.ca" }
+    ]
+  },
+  {
+    "course_name": "Applied Computing",
+    "school_of": "Computing",
+    "courses": [
+      { "level": 1, "code": "COMP 9060", "title": "Applied Algorithm Analysis", "credits": 3.0 },
+      { "level": 1, "code": "COMP 9170", "title": "Data Science", "credits": 3.0 },
+      { "level": 1, "code": "COMP 9200", "title": "Applied Research Methods", "credits": 3.0 },
+      { "level": 2, "code": "COMP 9040", "title": "Human-centered Computing", "credits": 3.0 },
+      { "level": 2, "code": "COMP 9080", "title": "Research Proposal", "credits": null },
+      { "level": 2, "code": "COMP 9130", "title": "Applied Artificial Intelligence", "credits": 3.0 },
+      { "level": 2, "code": "COMP 9150", "title": "Cyber Security for Applied Computing", "credits": 3.0 },
+      { "level": 3, "code": "COMP 9600", "title": "M.Sc. Thesis", "credits": 12.0 },
+      { "level": 3, "code": "COMP 9290", "title": "Special Topics in Applied Computing", "credits": 3.0 },
+      { "level": 3, "code": "COMP 9400", "title": "Industry Internship", "credits": 6.0 },
+      { "level": 3, "code": "COMP 9500", "title": "M.Sc. Research Project", "credits": 3.0 }
+    ],
+    "staff": [
+      {
+        "name": "Dr. Michal Aibin",
+        "role": "Program Head",
+        "academic_background": "Ph.D., Informatics",
+        "research_areas": [
+          "Networking",
+          "Cloud computing",
+          "UAV/RPAS/drones",
+          "Computer vision",
+          "Autonomous vehicles",
+          "AI",
+          "Machine learning"
+        ]
+      },
+      {
+        "name": "Dr. Aaron Hunter",
+        "academic_background": "Ph.D., Computing Science",
+        "research_areas": [
+          "Artificial Intelligence",
+          "Knowledge Representation",
+          "Trust",
+          "Information Security"
+        ]
+      },
+      {
+        "name": "Dr. Borna Noureddin",
+        "academic_background": "Ph.D., Biomedical Engineering",
+        "research_areas": [
+          "Social implications of technology",
+          "Human-computer interaction",
+          "Assistive technologies",
+          "Biomedical engineering"
+        ]
+      },
+      {
+        "name": "Dr. Fatemeh Riahi",
+        "academic_background": "Ph.D. Computing Science",
+        "research_areas": [
+          "Machine Learning",
+          "Data Science",
+          "Anomaly Detection",
+          "Exception Mining",
+          "Fraud Detection",
+          "Time Series Analysis"
+        ]
+      },
+      {
+        "name": "Dr. Hao Ma",
+        "academic_background": "Ph.D. Electrical and Computer Engineering",
+        "research_areas": [
+          "Artificial Intelligence",
+          "Internet of Things",
+          "Robotics"
+        ]
+      },
+      {
+        "name": "Dr. Mirela Gutica",
+        "academic_background": "Ph.D., Curriculum Studies (Educational Technology)",
+        "research_areas": [
+          "Advanced learning technologies and intelligent tutoring systems",
+          "Computer science education research",
+          "Cognition, emotion, motivation and learning",
+          "HCI and adaptive interfaces"
+        ]
+      },
+      {
+        "name": "Dr. Chi En Huang",
+        "academic_background": "Ph.D., Electrical & Computer Engineering",
+        "research_areas": [
+          "Computer Architecture",
+          "Wireless Communication Systems",
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Optimization"
+        ]
+      }
+    ]
+  },
+  {
+    "course_name": "Front-End Web Developer",
+    "school_of": "School of Computing and Academic Studies",
+    "courses": [
+      { "code": "FWDP 1000", "title": "Web Development 1", "credits": 4.0 },
+      { "code": "FWDP 1100", "title": "Web Design Fundamentals", "credits": 2.0 },
+      { "code": "FWDP 1200", "title": "UX Fundamentals", "credits": 2.0 },
+      { "code": "FWDP 1400", "title": "Web Scripting 1", "credits": 5.0 },
+      { "code": "FWDP 2000", "title": "Web Development 2", "credits": 4.0 },
+      { "code": "FWDP 2200", "title": "Web Design Process", "credits": 3.0 },
+      { "code": "FWDP 2300", "title": "Managing Web Projects", "credits": 1.0 },
+      { "code": "FWDP 2400", "title": "Web Scripting 2", "credits": 5.0 },
+      { "code": "FWDP 3400", "title": "Web Scripting 3", "credits": 4.0 },
+      { "code": "FWDP 3600", "title": "Content Management Systems", "credits": 5.0 },
+      { "code": "FWDP 3700", "title": "Online Stores", "credits": 2.0 },
+      { "code": "FWDP 4000", "title": "Web Portfolio Project", "credits": 4.0 },
+      { "code": "FWDP 4500", "title": "Capstone Project", "credits": 9.0 }
+    ],
+    "staff": [
+      { "name": "Michael Whyte", "role": "FWD Program Head" },
+      { "name": "Beata Kozma", "role": "FWD Faculty" },
+      { "name": "Jonathon Leathers", "role": "FWD Faculty" }
+    ]
+  },
+  {
+    "course_name": "Software Systems Developer",
+    "school_of": "School of Computing and Academic Studies",
+    "courses": [
+      { "code": "SSDP 0055", "title": "Team Professionalism Workshops", "credits": null },
+      { "code": "SSDP 0056", "title": "Career Professionalism Workshops", "credits": null },
+      { "code": "SSDP 1100", "title": "Front-End Web Development Essentials", "credits": 3.0 },
+      { "code": "SSDP 1505", "title": "Software Systems Relational Database Development", "credits": 3.0 },
+      { "code": "SSDP 2000", "title": "JavaScript Fundamentals", "credits": 3.0 },
+      { "code": "SSDP 2505", "title": "Object-Oriented Development: with .NET", "credits": 4.0 },
+      { "code": "SSDP 2600", "title": "Software Systems Analysis and Design", "credits": 3.0 },
+      { "code": "SSDP 2800", "title": "React Essentials", "credits": 1.5 },
+      { "code": "SSDP 2850", "title": "Web Development Tools and Techniques", "credits": 4.0 },
+      { "code": "SSDP 2900", "title": "Angular and Vue.js", "credits": 3.0 },
+      { "code": "SSDP 3100", "title": "Node.js Web Development", "credits": 3.0 },
+      { "code": "SSDP 3200", "title": "MVC and API Frameworks", "credits": 4.0 },
+      { "code": "SSDP 3300", "title": "Software Systems Projects", "credits": 4.0 },
+      { "code": "SSDP 3700", "title": "Advanced Back-End Web Development", "credits": 3.0 },
+      { "code": "SSDP 3800", "title": "Mobile Software Development", "credits": 4.0 },
+      { "code": "SSDP 3900", "title": "DevOps and Containerization", "credits": 1.5 },
+      { "code": "SSDP 4300", "title": "Cloud Application Development", "credits": 5.0 },
+      { "code": "SSDP 4400", "title": "Industry Project", "credits": 5.0 }
+    ],
+    "staff": [
+      { "name": "Josh Solomon", "role": "SSD Faculty" },
+      { "name": "Lorraine Fentie", "role": "Program Head", "phone": "604-412-7710", "email": "Lorraine_Fentie@bcit.ca" }
+    ]
+  }
+]
